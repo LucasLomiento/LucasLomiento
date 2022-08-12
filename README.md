@@ -4,9 +4,3 @@
     </div>
 
 </main>
-
-<style>
-    main{
-        background
-    }
-</style>
