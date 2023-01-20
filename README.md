@@ -47,3 +47,7 @@
   <a href="https://www.linkedin.com/in/lucaslomiento/"><img width="35em" src="https://img.icons8.com/nolan/512/linkedin-circled.png"></a>&nbsp;
   <a href="https://www.instagram.com/lucaslnto/"><img width="35em" src="https://img.icons8.com/nolan/512/instagram-new.png"></a>
 <div>
+
+<!---
+Criado e personalizado por Lucas Reis :)
+-->
