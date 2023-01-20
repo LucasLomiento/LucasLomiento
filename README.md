@@ -30,6 +30,6 @@
 <br>
 
 <div align="left">
-  <img align="left" height="100em" src="https://github-readme-stats.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=github_dark"/>
+  <img align="left" height="130em" src="https://github-readme-stats.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
