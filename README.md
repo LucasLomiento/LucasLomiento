@@ -3,8 +3,8 @@
   <h1 align="center">:wave: Oi! Eu sou o Lucas Lomiento</h1>
 </div>
 
-<div>
-  <h4 align="center">Um estudante de desenvolvimento web fullStack na Trybe. <a href="https://www.betrybe.com"><img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.betrybe.com/&size=16"></a>
+<div style>
+  <h4 align="center" size="7">Um estudante de desenvolvimento web fullStack na Trybe. <a href="https://www.betrybe.com"><img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.betrybe.com/&size=16"></a>
   </h4>
   <h5 align="center">Sempre buscando aprender novas tecnologias e habilidades para me tornar um desenvolvedor cada vez melhor.</h5>
 </div>
@@ -30,8 +30,6 @@
 <br>
 
 <div align="left">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=github_dark"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="left" height="100em" src="https://github-readme-stats.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
