@@ -43,7 +43,7 @@
 <div align="center">
   <img align="right" width="170px" src="https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png"/>
   <h2>Contatos</h2>
-  <a href="discord.gg/KBTuth9v"><img width="35em" src="https://img.icons8.com/nolan/512/discord-logo.png" /></a>
-  <a hreft="https://www.linkedin.com/in/lucaslomiento/"><img width="35em" src="https://img.icons8.com/nolan/512/linkedin-circled.png"></a>
-  <a hreft="https://www.instagram.com/lucaslnto/"><img width="35em" src="https://img.icons8.com/nolan/512/instagram-new.png"></a>
+  <a href="https://discord.gg/KBTuth9v"><img width="35em" src="https://img.icons8.com/nolan/512/discord-logo.png" /></a>
+  <a href="https://www.linkedin.com/in/lucaslomiento/"><img width="35em" src="https://img.icons8.com/nolan/512/linkedin-circled.png"></a>
+  <a href="https://www.instagram.com/lucaslnto/"><img width="35em" src="https://img.icons8.com/nolan/512/instagram-new.png"></a>
 <div>
