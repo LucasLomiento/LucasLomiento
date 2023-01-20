@@ -1,27 +1,35 @@
-# Lucas Lomiento
-
-Eu sou Lucas Lomiento, estudante de desenvolvimento web fullStack na Trybe. Estou sempre buscando aprender novas tecnologias e habilidades para me tornar um desenvolvedor cada vez melhor.
-
-## Linguagens que estou aprendendo
-- HTML5
-- CSS3
-- React
-- TypeScript
-- Node.js
-- MySql
-
-<div style="display: flex; flex-direction: row; gap:5px">
-
-<div style="width: 100vh">
-
-![Lucas's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=6&theme=dark)
-
+<div>
+  <img align="right" height="170" src="https://cdn.discordapp.com/attachments/961693429480448070/1065779355046920202/persona_40.png"/>
+  <h1 align="center">:wave: Oi! Eu sou o Lucas Lomiento</h1>
 </div>
 
-<div style="width: 100vh">
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslomiento&theme=dark)
-
+<div style>
+  <h4 align="center" size="7">Um estudante de desenvolvimento web fullStack na Trybe. <a href="https://www.betrybe.com"><img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.betrybe.com/&size=16"></a>
+  </h4>
+  <h5 align="center">Sempre buscando aprender novas tecnologias e habilidades para me tornar um desenvolvedor cada vez melhor.</h5>
 </div>
 
+<br>
+
+<div align="center">
+  <h2>Estou aprendendo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
+   <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
+   <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="left">
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
