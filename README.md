@@ -49,5 +49,5 @@
 <div>
 
 <!---
-Criado e personalizado por Lucas Reis :)
+(: Criado e personalizado por Lucas Reis :)
 -->
