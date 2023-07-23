@@ -30,13 +30,13 @@
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" height="130em" srcset="https://github-readme-stats-ochre-three-52.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark">
-    <img height="130em" src="https://github-readme-stats-ochre-three-52.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=swift">
+    <source media="(prefers-color-scheme: dark)" height="130em" srcset="https://github-readme-stats-lucaslomiento.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark">
+    <img height="130em" src="https://github-readme-stats-lucaslomiento.vercel.app/api?username=lucaslomiento&show_icons=true&include_all_commits=true&count_private=true&theme=swift">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" align="left" height="130em" srcset="https://github-readme-stats-ochre-three-52.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=github_dark">
-    <img height="130em" src="https://github-readme-stats-ochre-three-52.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=swift">
+    <source media="(prefers-color-scheme: dark)" align="left" height="130em" srcset="https://github-readme-stats-lucaslomiento.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=github_dark">
+    <img height="130em" src="https://github-readme-stats-lucaslomiento.vercel.app/api/top-langs/?username=lucaslomiento&layout=compact&langs_count=7&theme=swift">
   </picture>
 </div>
 
