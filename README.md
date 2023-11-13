@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">:wave: Oi! Eu sou o Lucas Lomiento</h1>
-  <h4 align="center" size="7">Um estudante de desenvolvimento web fullStack na Trybe. <a href="https://www.betrybe.com"><img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.betrybe.com/&size=16"></a>
+  <h4 align="center" size="7">Um eterno estudante de desenvolvimento web fullStack.</a>
   </h4>
   <h5 align="center">Sempre buscando aprender novas tecnologias e habilidades para me tornar um desenvolvedor cada vez melhor.</h5>
 </div>
