@@ -1,8 +1,7 @@
 <div>
   <h1 align="center">:wave: Oi! Eu sou o Lucas Lomiento</h1>
-  <h4 align="center" size="7">Um eterno estudante de desenvolvimento web fullStack.</a>
+  <h4 align="center" size="7">Um eterno estudante de programação.</a>
   </h4>
-  <h5 align="center">Sempre buscando aprender novas tecnologias e habilidades para me tornar um desenvolvedor cada vez melhor.</h5>
 </div>
 
 <br>
